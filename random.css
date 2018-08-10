@@ -1,0 +1,31 @@
+body {
+  font-family: helvetica, sans-serif;
+  width: 430px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h1 {
+  color: red;
+}
+label {
+  font-weight: bold;
+}
+
+div {
+  padding-bottom: 20px;
+}
+
+input[type="text"] {
+  padding: 5px;
+  width: 150px;
+}
+p {
+  background: pink;
+  color: #5e2612;
+  padding: 10px;
+  visibility: hidden;
+  text-align: center;
+}
+.yourname {
+  font-weight: bold;
+}
